@@ -12,5 +12,4 @@ function task(task) {
       </div>
       );
   }
-
   export default task
