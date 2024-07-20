@@ -1,4 +1,3 @@
-export default Task
 function Task(task) {
     let Style = {};
     if (task.isDone) {
@@ -13,3 +12,5 @@ function Task(task) {
       </div>
       );
   }
+
+  export default Task
