@@ -1,4 +1,4 @@
-function TaskInput() {
+function taskInput() {
     return (
       <div className="d-flex gap-1">
         <input
@@ -9,4 +9,4 @@ function TaskInput() {
       </div>
     );
   }
-export default TaskInput
+export default taskInput

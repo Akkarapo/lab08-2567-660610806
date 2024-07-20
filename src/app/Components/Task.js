@@ -1,4 +1,4 @@
-function Task(task) {
+function task(task) {
     let Style = {};
     if (task.isDone) {
       Style = {"text-decoration":"line-through"};
@@ -13,4 +13,4 @@ function Task(task) {
       );
   }
 
-  export default Task
+  export default task
