@@ -1,4 +1,4 @@
-import header from "./Components/header.js"
+import header from "./header.js"
 import taskInput from "./taskInput.js";
 import task from "./task.js"
 import footer from "./footer.js";
